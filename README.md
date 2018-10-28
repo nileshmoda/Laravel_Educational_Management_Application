@@ -1,4 +1,5 @@
 # Laravel_Educational_Management_Application
+first composer should be installed
 Laravel Based Educational Managment System With Admin Student Parents Teacher Panel
 <br>
 Step 1:- Unzip The folder<br>
